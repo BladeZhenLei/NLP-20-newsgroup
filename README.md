@@ -1,1 +1,2 @@
 # NLP-20-newsgroup
+The 20 newsgroups dataset consists of approximately 20000 newsgroups on 20 topics (see [1]), it is split in two subsets: one for training and the other one for testing, the dataset can be imported using the sklearn library (see [2]). The split between the train and test set is based on a messages posted before and after a specific date. The data is organized corresponding to different topics, some are closely related (i.e. comp.sys.ibm.pc.hardware and comp.sys.mac.hardware), while others are highly unrelated (e.g. sci.crypt and soc.religion.christian).
